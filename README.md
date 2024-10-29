@@ -1,2 +1,2 @@
 # reimagined-octo-chainsaw
-section feature-a -> main
+section feature-a -> main -> feature-d
